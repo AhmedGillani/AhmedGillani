@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Ahmed Mazhar Gillani</h1>
 <h3 align="center">A passionate backend developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Django Framework, Python**
+- 🌱 I’m currently learning **Python, Django Framework**
 
 - 💬 Ask me about **Python, HTML, CSS**
 
