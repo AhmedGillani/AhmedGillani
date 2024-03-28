@@ -1,11 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Syed Ahmed Mazhar Gillani</h1>
-<h3 align="center">Passionate Backend Developer & Research Enthusiast from Pakistan</h3>
+<h3 align="center">Passionate Researcher | NLP Specialist | Machine Learning Enthusiast | Python Developer | Text Mining Expert from Pakistan</h3>
 
-- 🌱 Currently diving deep into **Python** and **Django Framework**
-
-- 💬 Ask me about **Python, HTML, CSS**
-
-- 📫 How to reach me: **Ahmed.Gillani142@gmail.com**
+- 📫 How to reach me: **ahmedgillani142@gmail.com**
+**ahmed.gillani@kics.edu.pk** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +42,10 @@ Al-Khawarizmi Institute of Computer Science (KICS), UET, Lahore
 *November 2021 - September 2023*
 
 ## Education
+**Master's Degree, Computer Science**
+University of Engineering and Technology (UET), Lahore, Pakistan
+*2023-2025*
+
 **Bachelor of Software Engineering**  
 University of Okara (UO), Okara, Pakistan  
 *2019-2023*
@@ -69,7 +70,7 @@ University of Okara (UO), Okara, Pakistan
 A robust AI-supported detector for hate speech identification in data collected from various social media platforms.
 
 ## Skills
-- Extensive experience in software design and development with Python, C++, C#, JavaScript, HTML, CSS, Git, and SQL.
+- Extensive experience in software design and development with Python, JavaScript, HTML, CSS, Git, and SQL.
 - Tools: PyCharm, Visual Studio Code, Jupyter Notebook, Jupyter Lab, Microsoft Azure, AWS, Digital Ocean, Visual Studio.
 - Frameworks: Keras, PyTorch, TensorFlow, Django, Flask.
 
@@ -84,8 +85,4 @@ A robust AI-supported detector for hate speech identification in data collected 
 - Loan Defaulter Identification
 
 ## References
-**Dr. Muhammad Nabeel Asim**  
-Assistant Manager Research  
-Al-Khawarizmi Institute of Computer Science (KICS)  
-📞 Phone: +92 333 6915422  
-📧 Email: nabeel.asim@kics.edu.pk
+ - Should be provided on demand.
